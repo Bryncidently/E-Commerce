@@ -1,17 +1,16 @@
-# E-Commerce
+# Ecommerce
 
 ## Table of Contents
 
 - [Description](#description)
 - [User-Story](#user-story)
-- [Features](#features)
-- [Contributing](#contributing)
+- [Questions](#questions)
 - [Links](#links)
-
+- [Images](#images)
 
 ## Description
 
-The back end for an e-commerce site
+A back end for an e-commerce site.
 
 ## User-Story
 
@@ -19,16 +18,16 @@ AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
-## Features
+## Questions
 
-The ability to browse, update, add and delete various products, their categories and their tags. 
-
-## Contributing
-
-You can see my repo at: [Bryn Glofelty](https://github.com/Bryncidently),
-
+For additional questions, contact [bryncidently](https://github.com/bryncidently) or email email@brynglotfelty.com.
 
 ## Links
 
-Video of application: (https://drive.google.com/file/d/1MSVLDuZtgh314Nw6la4IFHCrEUT81ltp/view?usp=sharing)
+Link to video [HERE](https://drive.google.com/file/d/1E04aM_oBdtl4TE5d4roBwWRMBbQ0sZxd/view?usp=sharing)
+
+## Images
+
+![model](./assets/ecommercess.png)
+
 
